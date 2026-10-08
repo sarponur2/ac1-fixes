@@ -1,0 +1,11 @@
+{
+  "name": "Assassin's Creed: Director's Cut, Steam DX10 1.0.2.1",
+  "fileName": "AssassinsCreed_Dx10.exe",
+  "length": 24183432,
+  "offset": 19978136,
+  "originalByte": 103,
+  "patchedByte": 0,
+  "hostname": "gconnect.ubi.com",
+  "originalSha256": "576a04841c37be5a819974abd59ea3ecd818f0bc36acab71c62ee0313dca0129",
+  "patchedSha256": "9e767f248f0c192b8188b6e0878c4c9bd2a135ea5fb6e2c18626bbd552771157"
+}

@@ -1,0 +1,11 @@
+# Never publish game binaries, private controller builds, backups, or local fixtures.
+*.exe
+*.dll
+*.asi
+*.dmp
+*.bak
+*.log
+*.zip
+.test-artifacts/
+.local/
+artifacts/
