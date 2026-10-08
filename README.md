@@ -2,7 +2,7 @@
 
 Targeted troubleshooting for Assassin's Creed: Director's Cut on Windows: a startup crash near the Ubisoft logo and incorrect controller mapping.
 
-This is a local draft prepared for review. Nothing has been published yet.
+Download the [v0.1.0 source package](https://github.com/sarponur2/ac1-fixes/archive/refs/tags/v0.1.0.zip), extract it, and follow the appropriate guide below. The package contains scripts and documentation; no game executable or controller DLL is included.
 
 | Problem | Available here | Tested scope |
 | --- | --- | --- |
